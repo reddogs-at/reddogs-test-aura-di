@@ -1,0 +1,25 @@
+{
+    "name": "reddogs-at/reddogs-test-aura-di",
+    "description": "Test Trait to use Aura DI Container in TestCases",
+    "type": "library",
+    "homepage": "https://github.com/reddogs-at/reddogs-test-aura-di",
+    "license": "MIT",
+    "require": {
+        "php": "^7.0",
+        "aura/di": "^3.2",
+        "zendframework/zend-config-aggregator": "^0.2.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^6.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Reddogs\\Test\\AuraDi\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "ReddogsTest\\Test\\AuraDi\\": "test/"
+        }
+    }
+}
