@@ -7,7 +7,7 @@
 [![Code Climate](https://codeclimate.com/github/reddogs-at/reddogs-test-aura-di/badges/gpa.svg)](https://codeclimate.com/github/reddogs-at/reddogs-test-aura-di)
 [![Issue Count](https://codeclimate.com/github/reddogs-at/reddogs-test-aura-di/badges/issue_count.svg)](https://codeclimate.com/github/reddogs-at/reddogs-test-aura-di)
 
-Simple zend framework 3 content management module using markdown for blogposts and pages
+Test Trait to use Aura DI Container in TestCases
 
 ## Installation
 
